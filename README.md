@@ -1,4 +1,4 @@
-#Nextjs-Web3
+# Nextjs-Web3
 
 Bare-bones example of connecting a wallet to a nextjs app using the package `web3-react`
 No-Licence on this - Feel free to use as you please.
